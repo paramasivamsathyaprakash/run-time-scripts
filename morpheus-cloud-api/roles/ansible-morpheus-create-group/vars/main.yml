@@ -1,2 +1,5 @@
 ---
+  vars:
+    morpheus_appliance_url: https://devlmorph001.techlab.com/api/groups
+    morpheus_api_token: #######
 # vars file for ansible-morpheus-create-group
